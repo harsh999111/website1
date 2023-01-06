@@ -1,0 +1,55 @@
+h1{
+    font-family: Merriweather;
+    text-align: center;
+    color:black;
+}
+
+.harsh{
+    width: 235px;
+    height: 200px;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right:auto;
+    display: block;
+}
+
+.full{
+    text-align: center;
+    font-family: Merriweather;
+    font-style: inherit;
+    font-size: 25px;
+    font-weight: 100;
+    color: black;
+    margin: 0.75rem;
+    margin-top: auto;
+}
+h2{
+    text-align: center;
+}
+
+table,tr,th{
+    border:1px solid white;
+    color: #fff;
+}
+table{
+    width: 100%;
+}
+#e{
+    color: rgba(9, 224, 181, 0.641);
+}
+
+#p{
+    color: goldenrod;
+}
+#s{
+    color: #fff;
+}
+
+.mobile,
+.email{
+    color: #fff;
+}
+.w{
+    color: #fff;
+}
